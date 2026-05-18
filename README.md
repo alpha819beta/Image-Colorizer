@@ -55,6 +55,3 @@ If you find these models useful for your resesarch, please cite with these bibte
   publisher={ACM}
 }
 ```
-
-### Misc ###
-Contact Richard Zhang at rich.zhang at eecs.berkeley.edu for any questions or comments.
